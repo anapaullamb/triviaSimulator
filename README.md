@@ -1,4 +1,7 @@
 ![Imagem da plataforma]([]https://i.imgur.com/ztD35wI.jpg | width=100)
+<img src="https://github.com/favicon.ico" width="48">
+
+
 
 # SuperTriviaSimulator [![Author](https://img.shields.io/badge/author-anapaullamb-7225d0?style=flat-square)](https://github.com/anapaullamb)
 
