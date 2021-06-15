@@ -1,6 +1,9 @@
 
 <p align="center">
   <img src="https://i.imgur.com/Qxb8sod.jpg" width="200">
+  <img src="https://i.imgur.com/ztD35wI.jpg" width="200">
+  <img src="https://i.imgur.com/gbzyKcq.jpg" width="200">
+  <img src="https://i.imgur.com/UNN9wHF.jpg" width="200">
 </p>
 
 # SuperTriviaSimulator [![Author](https://img.shields.io/badge/author-anapaullamb-7225d0?style=flat-square)](https://github.com/anapaullamb)
