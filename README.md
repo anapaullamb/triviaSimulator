@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/ztD35wI.jpg" width="48">
 
+<div style="text-align:center"><img src="https://i.imgur.com/ztD35wI.jpg" width="200"></div>
 
 
 # SuperTriviaSimulator [![Author](https://img.shields.io/badge/author-anapaullamb-7225d0?style=flat-square)](https://github.com/anapaullamb)
