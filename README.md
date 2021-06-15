@@ -1,4 +1,4 @@
-![Imagem da plataforma](https://i.imgur.com/4XVPyhb.jpg)
+![Imagem da plataforma](https://imgur.com/a/vNRrJHA)
 
 # SuperTriviaSimulator [![Author](https://img.shields.io/badge/author-anapaullamb-7225d0?style=flat-square)](https://github.com/anapaullamb)
 
