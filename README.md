@@ -1,5 +1,4 @@
-![Imagem da plataforma]([]https://i.imgur.com/ztD35wI.jpg | width=100)
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://i.imgur.com/ztD35wI.jpg" width="48">
 
 
 
