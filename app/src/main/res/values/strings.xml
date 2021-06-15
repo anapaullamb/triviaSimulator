@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Super Trivia Simulator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="et_email">Enter your email</string>
+    <string name="et_password">Enter your password</string>
+    <string name="text_login" translatable="false">Login</string>
+    <string name="text_register">Sign In</string>
+    <string name="tv_login">Do you already have an account?</string>
+    <string name="tv_register">Don\'t have an account?</string>
+    <string name="et_name">Enter your name</string>
+    <string name="title_activity_fullscreen" translatable="false">FullscreenActivity</string>
+    <string name="alert_login_sucess">Successfully logged in!</string>
+    <string name="alert_login_error">Incorrect login or password</string>
+    <string name="tv_categories">Categories</string>
+    <string name="tv_difficulty">Difficulty</string>
+    <string name="tv_game">Game settings</string>
+    <string name="tv_easy">Easy</string>
+    <string name="tv_medium">Medium</string>
+    <string name="tv_hard">Hard</string>
+    <string name="et_welcome">Welcome!</string>
+    <string name="et_play">Play</string>
+    <string name="et_ranking" translatable="false">Ranking</string>
+    <string name="et_score">score</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="et_logoff">Logoff</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="newQuestion">New Question?</string>
+    <string name="game">Game</string>
+    <string name="endGame">End Game</string>
+    <string name="started_art">Started at</string>
+    <string name="finished_at">Finished at</string>
+    <string name="close">Close</string>
+    <string name="won">You won!!</string>
+    <string name="missed">You missed!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
