@@ -1,0 +1,2 @@
+com/paula/ana/supertriviasimulator/BuildConfig.java
+ com.paula.ana.supertriviasimulator.BuildConfig
