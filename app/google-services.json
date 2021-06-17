@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "453567122813",
+    "project_id": "atividadeandroidsimulator",
+    "storage_bucket": "atividadeandroidsimulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453567122813:android:c6d42dc4a78129c2f45014",
+        "android_client_info": {
+          "package_name": "com.example.trabalhofinalsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WbYA559gogIHHR6B9zCeUJTt56UD8Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453567122813:android:42d814836eccf281f45014",
+        "android_client_info": {
+          "package_name": "com.paula.ana.supertriviasimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453567122813-nqflf271in03b6k2olut97s7f16885d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paula.ana.supertriviasimulator",
+            "certificate_hash": "9494652c9f85ac55649c133d019455497ede0b71"
+          }
+        },
+        {
+          "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WbYA559gogIHHR6B9zCeUJTt56UD8Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453567122813:android:0ab3e57b3bf692e9f45014",
+        "android_client_info": {
+          "package_name": "com.stiehl.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WbYA559gogIHHR6B9zCeUJTt56UD8Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453567122813-r6etsl24baetkh4ciki4aorr0ma7caho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.paula.ana.supertriviasimulator.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <argument
+            android:name="nome"
+            app:argType="string" />
+        <argument android:name="token"
+            app:argType="string" />
+        <action
+            android:id="@+id/navigateToGame"
+            app:destination="@id/gameFragment" />
+        <action
+            android:id="@+id/navigateToRanking"
+            app:destination="@id/rankingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/rankingFragment"
+        android:name="com.paula.ana.supertriviasimulator.fragments.RankingFragment"
+        android:label="fragment_ranking"
+        tools:layout="@layout/fragment_ranking" >
+        <action
+            android:id="@+id/navigateToHome"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.paula.ana.supertriviasimulator.fragments.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" >
+        <action
+            android:id="@+id/navigateToMenuGame"
+            app:destination="@id/gameMenuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameMenuFragment"
+        android:name="com.paula.ana.supertriviasimulator.fragments.GameMenuFragment"
+        android:label="fragment_game_menu"
+        tools:layout="@layout/fragment_game_menu" >
+        <action
+            android:id="@+id/navigateToHome2"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>

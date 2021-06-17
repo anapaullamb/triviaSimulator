@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_email">Digite o seu e-mail</string>
+    <string name="et_password">Digite a sua senha</string>
+    <string name="text_register">Cadastre-se</string>
+    <string name="tv_login">Já tem uma conta?</string>
+    <string name="tv_register">Ainda não tem uma conta?</string>
+    <string name="et_name">Digite o seu nome</string>
+    <string name="alert_login_sucess">Logado com sucesso!</string>
+    <string name="alert_login_error">Login ou senha incorretos</string>
+    <string name="tv_categories">Categorias</string>
+    <string name="tv_game">Definições de jogo</string>
+    <string name="tv_difficulty">Dificuldade</string>
+    <string name="tv_easy">Facil</string>
+    <string name="tv_medium">Medio</string>
+    <string name="tv_hard">Dificil</string>
+    <string name="et_welcome">Bem-vindo!</string>
+    <string name="et_play">Jogar</string>
+    <string name="et_score">pontos</string>
+    <string name="et_logoff">Sair</string>
+    <string name="yes">Sim</string>
+    <string name="newQuestion">Nova pergunta?</string>
+    <string name="game">Jogo</string>
+    <string name="endGame">Finalizar jogo</string>
+    <string name="started_art">Começou às</string>
+    <string name="finished_at">Terminou em</string>
+    <string name="close">fechar</string>
+    <string name="won">Você acertou!!</string>
+    <string name="missed">Você errou!</string>
+</resources>
